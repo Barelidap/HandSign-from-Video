@@ -13,6 +13,7 @@ frames.py - splits videos into frames and saves them in a given folder.
 source_2.py - the main source code that brings together all the algorithm.  
 
 When you run the source_2.py, you will see a two progress bars. The first one is the main one that shows the progress of the program. The second one shows the progress of current file.  
+
 ![image](https://user-images.githubusercontent.com/31180324/171438506-7555a7b1-354a-44bc-9d23-e119a8608b42.png)  
 
 Also, the log.txt file will be created in the same directory.  
