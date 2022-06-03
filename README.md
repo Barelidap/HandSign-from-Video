@@ -2,7 +2,9 @@
 
 It is required to create 'frames' and 'cropped_imgs' folders in the same directory. 
 
-Then for run:  For Linux - cd models && sh ./download-models.sh  For Windows - cd models && powershell .\download-models.ps1
+Then for run:  
+For Linux (in terminal) - cd models && sh ./download-models.sh  
+For Windows (in cmd) - cd models && powershell .\download-models.ps1
 
 Test_videos is a folder that simulates the real dataset.  
 Models folder contains a Yolo model that is used for hand detection.  
