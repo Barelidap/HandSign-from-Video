@@ -2,7 +2,7 @@
 
 It is required to create 'frames' and 'cropped_imgs' folders in the same directory. 
 
-Then for run:  
+Then run:  
 For Linux (in terminal) - cd models && sh ./download-models.sh  
 For Windows (in cmd) - cd models && powershell .\download-models.ps1
 
